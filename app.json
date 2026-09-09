@@ -1,4 +1,4 @@
-{
+{drugpuppy
   "name":"BMW-X5MD",
   "description":"bot whatsapp développé by Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
@@ -32,7 +32,7 @@
       "required":false
     }
     ,
-    "BOT_NAME" : {
+    "BOT_NAME" : {bmw md
        
       "description":"put A name for your bot",
       "value":"BMW-XMD",
@@ -46,7 +46,7 @@
       "required":false
        
      },
-    "PUBLIC_MODE":
+    "PUBLIC_MODE":no
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
       "value":"yes",
@@ -69,14 +69,14 @@
       "required":true
       
     },
-    "OWNER_NAME":
+    "OWNER_NAME": drug puppy 
     {
     
     "desc": "Your Name",
     "required": false,
     "value": "𝑴𝒓 𝑰𝒃𝒓𝒂𝒉𝒊𝒎"
   },
-    "NUMERO_OWNER":
+    "NUMERO_OWNER":254740625843
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
@@ -89,7 +89,7 @@
     "required": false,
     "value": "3"
   },
-  "STARTING_BOT_MESSAGE":
+  "STARTING_BOT_MESSAGE":yes
   {
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
@@ -100,7 +100,7 @@
     "value":"",
     "required": false
   },
-  "ANTI_DELETE_MESSAGE" : {
+  "ANTI_DELETE_MESSAGE" : {yes
     "description": "if you want to enable anti delete message put yes else put no",
     "value": "yes",
         "required": false
